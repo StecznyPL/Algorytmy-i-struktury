@@ -10,4 +10,4 @@ Sredni przypadek O(n^2)
 Najlepszy przypadek O(n^2) lub O(n) gdy algorytm ma zaimplementowana optymalizacje
 
 ### Schemat blokowy
-! (Bubblesort.png)
+! Bubblesort.png
