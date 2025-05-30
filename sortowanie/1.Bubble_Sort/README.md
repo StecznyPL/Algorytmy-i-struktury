@@ -16,9 +16,10 @@ Jest to dobry algorytm do nauki ale nie stosowany z uwagi na bardzo slaba wydajn
 ``` bash
 g++ Bubble_Sort.cpp -o Bubble_Sort.o
 ./Bubble_Sort.o
+```
 
 ### Zawartosc 
-Bubble_Sort.cpp -> zwyczajny bubble sort
-Bubble_Sort_Optimized -> Bubble sort z flaga (zoptymalizowany) moze osiagnac O(n)
-Bubble_Sort.jpg -> Schemat blokowy
-Bubble_Sort.xlsx -> Arkusz kalkulacyjny prezentujacy przebieg zmiennych
+BubbleSort.cpp -> zwyczajny bubble sort
+BubbleSortOptimized -> Bubble sort z flaga (zoptymalizowany) moze osiagnac O(n)
+BubbleSort.jpg -> Schemat blokowy
+BubbleSort.xlsx -> Arkusz kalkulacyjny prezentujacy przebieg zmiennych
